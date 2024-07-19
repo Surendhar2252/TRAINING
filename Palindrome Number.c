@@ -22,4 +22,4 @@ int main() {
 }
 
 
-input : x = 121
+#input : x = 121
