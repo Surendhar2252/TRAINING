@@ -23,4 +23,4 @@ int main() {
 }
 
 
-input : x = 123
+#input : x = 123
